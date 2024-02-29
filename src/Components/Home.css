@@ -1,0 +1,31 @@
+
+#home {
+    background-image: url('../Components/Assets/Home.png'); 
+    background-size: cover; 
+    background-position: center center; 
+    height: 100vh; 
+    margin-bottom: 0;
+    
+}
+#about{
+    background-image: url('../Components/Assets/page2.png'); 
+    background-size: cover; 
+    background-position: center center; 
+    height: 100vh; 
+    margin-top: 0;
+}
+#projects{
+    background-image: url('../Components/Assets/page7.png'); 
+    background-size: cover; 
+    background-position: center center; 
+    height: 100vh; 
+    margin-top: 0;
+}
+#connect{
+    background-image: url('../Components/Assets/page8.png'); 
+    background-size: cover;
+    background-position: center center;  
+    height: 100vh; 
+    margin-top: 0;
+    
+}
